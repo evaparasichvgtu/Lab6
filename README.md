@@ -3,6 +3,8 @@
 # Условие
 Дано число N (N<1000). Написать программу, которая проверяет является кратна ли его сумма цифр трем.
 # Блок-схема
+<img width="838" height="1123" alt="image" src="https://github.com/user-attachments/assets/cea05101-5f98-49c5-9d6c-0b45e4b6bc9d" />
+
 # Код
 ```c
 #include <stdio.h>
